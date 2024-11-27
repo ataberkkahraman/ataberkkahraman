@@ -1,9 +1,9 @@
 # FitnessData-DSA210Project
 
 ## Project Overview
-This project focuses on analyzing the impact of daily lifestyle choices on my 1-rep max Bench Press performance over a three-month period. Specifically, I aim to examine how factors such as caloric intake, protein, carbohydrate, and creatine consumption, sleep duration, and sleep quality affect my strength progression. By visualizing trends and performing statistical analyses, I will identify which variables have the most significant influence on my performance and whether adjustments in these factors lead to measurable improvements.
+Over the next three months, I’ll be analyzing how my daily lifestyle choices impact my one-rep max Bench Press performance. My focus is on understanding the role of factors like caloric intake, protein, carbohydrate, and creatine consumption, as well as sleep duration and quality, in driving my strength gains. By visualizing patterns and running statistical analyses, I hope to pinpoint which of these variables have the greatest influence on my progress—and determine if tweaking them leads to measurable improvements.
 
-The analysis will include tracking my daily intake and routines and evaluating their correlations with the progression of my Bench Press performance. Additionally, hypothesis testing will be conducted to assess whether changes in specific variables have a statistically significant effect.
+To carry out this analysis, I’ll track my daily routines and intake, then evaluate how they correlate with changes in my Bench Press performance. I also plan to test hypotheses to see if specific adjustments in these areas have a statistically significant effect on my results.
 
 ---
 
@@ -41,9 +41,11 @@ The data is recorded daily in an Excel file, ensuring consistency and accuracy. 
 ---
 
 ## Data Considerations
-- Variability in performance due to external factors such as illness or injuries will be noted as potential outliers.  
-- The dataset will only include days when the Bench Press was tested to maintain consistency in the dependent variable.  
-- I will document any significant changes in workout routines or nutrition plans that may impact the analysis.
+Performance variability caused by external factors like illness or injuries will be flagged as potential outliers.
+
+- To ensure consistency in the dependent variable, the dataset will only include days when Bench Press performance was tested.
+- I’ll also record any significant changes to workout routines or nutrition plans that could influence the analysis.
+
 
 ---
 
@@ -83,4 +85,4 @@ An example visualization would include a scatter plot showing the relationship b
 ---
 
 ## Conclusion
-At the conclusion of the project, I aim to determine which lifestyle factors most significantly influence my Bench Press performance. Insights gained can help refine my fitness and nutrition strategies for continued improvement. This project will also serve as a practical demonstration of the application of data science in tracking and optimizing personal fitness progress.
+By the end of this project, I hope to identify which lifestyle factors have the greatest impact on my Bench Press performance. The insights I gain will help me fine-tune my fitness and nutrition strategies to keep making progress. Beyond that, this project will also showcase how data science can be used to track and optimize personal fitness goals in a practical, real-world setting.
